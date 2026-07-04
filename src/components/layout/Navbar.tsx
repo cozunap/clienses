@@ -82,7 +82,7 @@ export const Navbar = () => {
 
                         <div className="flex items-center gap-10">
                             <div className={cn(
-                                "hidden lg:flex items-center border-l pl-10 border-structure/10"
+                                "hidden lg:flex items-center"
                             )}>
                                 <Link
                                     href="?contact=true"
@@ -92,8 +92,6 @@ export const Navbar = () => {
                                     {dict.nav.contact}
                                 </Link>
                             </div>
-
-                            <LanguageSwitcher className="hidden lg:flex" />
 
                             <button
                                 className="lg:hidden p-2 z-50 text-text-main"
@@ -134,10 +132,6 @@ export const Navbar = () => {
                         >
                             {dict.nav.contact}
                         </Link>
-                    </div>
-
-                    <div className="pt-6">
-                        <LanguageSwitcher />
                     </div>
                 </div>
             </div>

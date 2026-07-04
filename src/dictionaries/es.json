@@ -1,0 +1,369 @@
+{
+    "common": {
+        "loading": "Cargando..."
+    },
+    "nav": {
+        "strategy": "Strategy",
+        "intelligence": "Intelligence",
+        "expansion": "Expansion",
+        "about": "Acerca de",
+        "contact": "Contactar Firma"
+    },
+    "hero": {
+        "slides": [
+            {
+                "subtitle": "CONSULTORÍA ESTRATÉGICA · DIRECCIÓN INCONMOVIBLE",
+                "title1": "CLARIDAD EN LA",
+                "title_accent": "DIRECCIÓN",
+                "desc": "Firma élite de consultoría estratégica y diseño organizacional. Arquitectura de negocios estructurada para liderar y captar tráfico orgánico de alto valor, exclusivamente en la ",
+                "desc_bold": "República Dominicana.",
+                "market": "DOMINICAN MARKET",
+                "marker": "STRATEGIC_CONSULTING"
+            },
+            {
+                "subtitle": "DISEÑO ORGANIZACIONAL · CERO IMPROVISACIÓN",
+                "title1": "CONSTRUCCIÓN DE",
+                "title_accent": "ESTRUCTURA",
+                "desc": "Sistemas corporativos predecibles que escalan operaciones y solidifican su autoridad para obtener el más alto ranking en su industria e incrementar su alcance orgánico en la ",
+                "desc_bold": "República Dominicana.",
+                "market": "DOMINICAN REPUBLIC",
+                "marker": "ORGANIZATIONAL_DESIGN"
+            },
+            {
+                "subtitle": "CRECIMIENTO ORGÁNICO · EXPANSIÓN SOSTENIBLE",
+                "title1": "MODELOS DE",
+                "title_accent": "ESCALAMIENTO",
+                "desc": "Transformamos su modelo de crecimiento mediante estrategias SEO agresivas y arquitectura comercial para multiplicar autoridad y conversiones B2B en la ",
+                "desc_bold": "República Dominicana.",
+                "market": "DR EXCLUSIVE",
+                "marker": "ORGANIC_SCALING"
+            }
+        ],
+        "cta": "INICIAR ARQUITECTURA",
+        "sidebar": "Aportamos claridad, dirección y estructura a organizaciones preparadas para el siguiente nivel de autoridad."
+    },
+    "services": {
+        "label": "MARCO DE SERVICIOS",
+        "title": "DIRECCIÓN CON",
+        "title_accent": "ESTRUCTURA.",
+        "desc": "Clienses opera bajo tres pilares fundamentales que reemplazan la improvisación por ",
+        "desc_accent": "arquitectura estratégica",
+        "desc_end": " en toda la República Dominicana.",
+        "quote_label": "\"Poder Silencioso\"",
+        "quote": "\"Diseñamos el mando conceptual que sostiene la escala.\"",
+        "pillars": [
+            {
+                "title": "Dirección Estratégica",
+                "desc": "Aportamos claridad y rumbo a organizaciones preparadas para el siguiente nivel de autoridad."
+            },
+            {
+                "title": "Organización Interna",
+                "desc": "Estructuramos sistemas operativos y conceptuales para eliminar la fragilidad del crecimiento."
+            },
+            {
+                "title": "Escalamiento Sostenible",
+                "desc": "Diseñamos la arquitectura necesaria para expandir la marca con intención y control."
+            }
+        ]
+    },
+    "brand": {
+        "label": "ENERGÍA DE MARCA",
+        "title": "PODER",
+        "title_accent": "SILENCIOSO.",
+        "body": "Clienses se percibe como sofisticación moderna y ",
+        "body_accent": "seguridad estructural",
+        "body_end": ". No grita. Sostiene en toda la región.",
+        "principle_label": "Principio Voz",
+        "principle_title": "SIGNIFICAR",
+        "principle_title2": "MÁS.",
+        "taglines": [
+            "Decir menos.",
+            "Evitar la dramatización.",
+            "Directo y seguro en toda la "
+        ],
+        "tagline_accent": "República Dominicana"
+    },
+    "method": {
+        "label": "PROTOCOLO DE INTERVENCIÓN",
+        "title": "SISTEMAS PARA",
+        "title_accent": "PERDURAR.",
+        "desc": "Nuestra metodología despoja de lo innecesario para centrarse en lo que genera ",
+        "desc_accent": "autoridad intelectual",
+        "desc_end": ".",
+        "steps": [
+            {
+                "title": "Diagnóstico de Intención",
+                "description": "Analizamos el núcleo de dirección para identificar brechas de estructura."
+            },
+            {
+                "title": "Modelado Arquitectónico",
+                "description": "Diseñamos la estructura lógica que sostendrá la nueva fase de escala."
+            },
+            {
+                "title": "Despliegue de Mando",
+                "description": "Implementamos los sistemas de control y dirección en la organización."
+            },
+            {
+                "title": "Vigilancia Continua",
+                "description": "Aseguramos que la arquitectura estratégica se mantenga íntegra y atemporal."
+            }
+        ]
+    },
+    "strategy": {
+        "pillar": "PILAR 01 · DIRECCIÓN ESTRATÉGICA",
+        "hero_title1": "ARQUITECTURA",
+        "hero_title_accent": "DE RUMBO.",
+        "hero_desc": "Diseño de la intención directiva y el ",
+        "hero_desc_accent": "mando conceptual",
+        "hero_desc_end": " de la organización.",
+        "hero_quote": "\"Sin una dirección clara, la estructura es solo carga. Sin estructura, la dirección es solo deseo.\"",
+        "content_title": "CLARIDAD EN EL",
+        "content_title_accent": "MANDO.",
+        "content_desc": "La dirección estratégica no es planificación; es la definición absoluta de la identidad y el futuro de la firma. En Clienses, trabajamos con directores en toda la ",
+        "content_desc_accent": "República Dominicana",
+        "content_desc_end": " para asegurar que su visión sea ejecutable.",
+        "section1_title": "4.1 Dirección Estratégica",
+        "section1_items": [
+            "Diagnóstico de madurez organizacional.",
+            "Diseño de plan estratégico y hoja de ruta.",
+            "Estructuración de modelos de negocio.",
+            "Auditoría estructural y operativa.",
+            "Análisis competitivo."
+        ],
+        "section2_title": "4.2 Dirección de Marca y Mercado",
+        "section2_items": [
+            "Arquitectura de marca corporativa.",
+            "Narrativa institucional.",
+            "Propuesta de valor.",
+            "Posicionamiento competitivo.",
+            "Marcos estratégicos de comunicación."
+        ]
+    },
+    "intelligence": {
+        "pillar": "PILAR 02 · ORGANIZACIÓN INTERNA",
+        "hero_title1": "ELIMINAR LA",
+        "hero_title_accent": "FRAGILIDAD.",
+        "hero_desc": "Estructuramos la organización para que la escala no comprometa la ",
+        "hero_desc_accent": "integridad operativa",
+        "hero_desc_end": ".",
+        "hero_quote": "\"El crecimiento sin estructura es solo una invitación al caos controlado. Nosotros quitamos el caos.\"",
+        "content_title": "RIGOR",
+        "content_title_accent": "OPERATIVO.",
+        "content_desc": "La inteligencia directiva se manifiesta en la capacidad de la empresa para funcionar con precisión matemática. Optimizamos cada nodo de mando para asegurar la continuidad en ",
+        "content_desc_accent": "toda la República Dominicana",
+        "content_desc_end": ".",
+        "section1_title": "4.3 Dirección de Proyectos — PMO",
+        "section1_items": [
+            "Diseño e implementación de Oficina de Dirección de Proyectos.",
+            "Conducción integral de iniciativas.",
+            "Gestión de riesgos, cronogramas, reportería ejecutiva."
+        ],
+        "section2_title": "4.4 Dirección Operativa y Logística",
+        "section2_items": [
+            "Reestructuración de cadena de suministro.",
+            "Optimización de procesos operativos.",
+            "Dirección de inventario y distribución.",
+            "Logística nacional e internacional.",
+            "Definición de KPIs operativos."
+        ]
+    },
+    "expansion": {
+        "pillar": "PILAR 03 · ESCALAMIENTO SOSTENIBLE",
+        "hero_title1": "CONTROL DE",
+        "hero_title_accent": "LA ESCALA.",
+        "hero_desc": "Arquitectura estratégica para expandir la marca y capturar ",
+        "hero_desc_accent": "autoridad de mercado",
+        "hero_desc_end": " regional.",
+        "hero_quote": "\"Escalar no es hacerse más grande; es hacerse más fuerte sin perder la intención original.\"",
+        "content_title": "AUTORIDAD",
+        "content_title_accent": "REGIONAL.",
+        "content_desc": "Diseñamos el despliegue de su organización en nuevos territorios bajo un esquema de ",
+        "content_desc_bold": "Expansión Controlada",
+        "content_desc_mid": ", asegurando que el mando conceptual se mantenga íntegro. Desde la ",
+        "content_desc_accent": "República Dominicana",
+        "content_desc_end": " hacia los mercados estratégicos de ",
+        "content_desc_markets": "Estados Unidos, Canadá, América Latina y el Caribe.",
+        "items": [
+            "Estrategia de Expansión Territorial",
+            "Modelado de Franquicia y Licencia",
+            "Arquitectura de Crecimiento Vertical",
+            "Despliegue de Autoridad Internacional"
+        ]
+    },
+    "about": {
+        "pillar": "DOCUMENTO INSTITUCIONAL · LA FIRMA",
+        "hero_title1": "DIRECCIÓN CON",
+        "hero_title_accent": "ESTRUCTURA.",
+        "hero_desc": "Firma de dirección estratégica y gestión de proyectos que interviene estructurando los factores críticos para el crecimiento sostenible.",
+        "origin_title": "ORIGEN E",
+        "origin_title_accent": "IDENTIDAD",
+        "origin_desc": "Clienses surge de la fusión conceptual de \"Clients\" y \"Estrategia\", simbolizando la integración indivisible entre la centralidad del cliente y la disciplina estratégica. Esta convergencia define a la firma como un sistema unificado de dirección, donde cada estrategia se diseña y ejecuta para potenciar el crecimiento sostenible del cliente.",
+        "philosophy_label": "Filosofía del Nombre",
+        "philosophy_item1_bold": "Cliente con dirección:",
+        "philosophy_item1": " Enfoque absoluto en las necesidades y objetivos del cliente como eje de toda intervención.",
+        "philosophy_item2_bold": "Estrategia con propósito:",
+        "philosophy_item2": " Rigor metodológico y visión de largo plazo para transformar desafíos en oportunidades estructuradas.",
+        "philosophy_item3_bold": "Crecimiento con estructura:",
+        "philosophy_item3": " Escalabilidad controlada, alineando acciones con marcos estratégicos sólidos.",
+        "philosophy_quote": "\"Clienses: Donde la estrategia se convierte en dirección sostenible para el cliente.\"",
+        "history_label": "HISTORIA",
+        "history_title": "RESEÑA",
+        "history_title_accent": "INSTITUCIONAL",
+        "history_p1": "Fundada en 2018 en República Dominicana, Clienses surgió al identificar un patrón estructural recurrente: las organizaciones no fracasan por falta de actividad, sino por ausencia de dirección estratégica integral. Hoy, Clienses opera como firma de dirección integrada (estrategia, marca, proyectos y operaciones), con sede en Santo Domingo y proyección activa hacia Estados Unidos y Canadá.",
+        "history_diagnosis_label": "Diagnóstico Fundacional",
+        "history_diagnosis": "Las organizaciones fracasan porque sus acciones carecen de una arquitectura estratégica que las ordene y controle. Se identificó acciones dispersas sin marco estratégico, ausencia de estructura y falta de control sobre resultados. A partir de esto, se desarrolló una metodología que integra estrategia, gestión y ejecución en un sistema unificado.",
+        "history_impact_label": "Ejemplos de Impacto",
+        "history_impact1_title": "Organización en expansión",
+        "history_impact1_desc": "Optimización operativa → reducción de ineficiencias en 25% y aumento de márgenes en 18% en seis meses.",
+        "history_impact2_title": "Empresa en reestructuración",
+        "history_impact2_desc": "Implementación de PMO → entregas a tiempo y dentro de presupuesto, ROI 35%.",
+        "history_impact3_title": "Proyecto de reposicionamiento",
+        "history_impact3_desc": "Redefinición estratégica → incremento en percepción de valor y diferenciación competitiva.",
+        "fundamentals_label": "FUNDAMENTOS ESTRATÉGICOS",
+        "fundamentals_title": "DIRIGIR CON",
+        "fundamentals_title_accent": "PROPÓSITO.",
+        "purpose_title": "Propósito",
+        "purpose_desc": "Existimos para proporcionar dirección estratégica a organizaciones que buscan claridad, estructura y control para un crecimiento sostenible.",
+        "mission_title": "Misión",
+        "mission_desc": "Dirigimos procesos estratégicos, operativos y de gestión, integrando análisis riguroso, planificación precisa y ejecución disciplinada para generar resultados medibles y de impacto duradero.",
+        "vision_title": "Visión",
+        "vision_desc": "Ser la firma de referencia en dirección estratégica en el Caribe y América Latina, con presencia consolidada en Estados Unidos y Canadá, reconocida por su metodología rigurosa y capacidad para liderar transformaciones de alto impacto.",
+        "values_label": "Valores Institucionales",
+        "values": [
+            "Estrategia antes que acción",
+            "Rigor profesional",
+            "Claridad en decisiones",
+            "Responsabilidad estratégica",
+            "Visión de largo plazo"
+        ],
+        "org_label": "Estructura Organizacional",
+        "org_desc": "Estructura horizontal orientada a agilidad y control estratégico. Escalabilidad mediante consultores asociados y alianzas estratégicas alineadas con los valores institucionales.",
+        "org_items": [
+            "· Dirección General",
+            "· Área Estratégica",
+            "· Área de Marca",
+            "· PMO / Proyectos",
+            "· Área Operativa"
+        ],
+        "markets_label": "MERCADOS DE OPERACIÓN",
+        "markets_hq_label": "Sede Principal",
+        "markets_hq": "República Dominicana",
+        "markets_expansion_label": "Expansión Activa",
+        "markets_expansion": "Estados Unidos · Canadá",
+        "markets_regional_label": "Proyección Regional",
+        "markets_regional": "América Latina · Caribe",
+        "positioning_title": "POSICIONAMIENTO",
+        "positioning_title_accent": "ESTRATÉGICO",
+        "positioning_desc": "Intervención estructural con enfoque en ROI medible (típicamente ",
+        "positioning_roi": "25-40%",
+        "positioning_desc_end": " en intervenciones completas).",
+        "contexts_label": "Contextos de Intervención",
+        "contexts": [
+            "→ Expansión controlada",
+            "→ Reestructuración organizacional",
+            "→ Profesionalización institucional",
+            "→ Redefinición estratégica"
+        ],
+        "modalities_label": "Modalidades de Acuerdo",
+        "modality1_bold": "Consultoría:",
+        "modality1": " diagnóstico (4-6 sem.)",
+        "modality2_bold": "Dirección:",
+        "modality2": " conducción activa (6-12 mes.)",
+        "modality3_bold": "Acompañamiento:",
+        "modality3": " asesoría continua",
+        "modality4_bold": "Intervención puntual:",
+        "modality4": " decisiones puntuales",
+        "nda_note": "* NDA integrado en todas las relaciones.",
+        "roadmap_label": "Roadmap de Expansión",
+        "roadmap1_period": "2026 - 2027",
+        "roadmap1_desc": "Consolidación en Rep. Dominicana → 50 clientes activos, ingresos anuales RD$50M.",
+        "roadmap2_period": "2028 - 2030",
+        "roadmap2_desc": "Entrada a Estados Unidos y Canadá → 20% proyectos transfronterizos, NPS >80.",
+        "roadmap3_period": "2031+",
+        "roadmap3_desc": "Liderazgo regional → 25% cuota de mercado Caribe y América Latina, ROI promedio 35-40%."
+    },
+    "privacy": {
+        "pillar": "CONFIDENCIALIDAD",
+        "hero_title1": "POLÍTICA DE",
+        "hero_title_accent": "PRIVACIDAD.",
+        "s1_title": "01. Compromiso de la Firma",
+        "s1_desc": "En CLIENSES (en adelante, \"la Firma\"), la confidencialidad no es solo una obligación legal, sino un pilar fundamental de nuestro criterio estratégico. Tratamos toda la información recibida de nuestros prospectos y clientes con el más alto rigor institucional.",
+        "s2_title": "02. Recolección de Datos",
+        "s2_desc": "Recopilamos información exclusivamente para fines de contacto estratégico y consultoría. Esto incluye nombres, correos corporativos y detalles de proyectos que usted decida compartir a través de nuestros canales oficiales. No recopilamos datos para audiencias masivas ni fines publicitarios informales.",
+        "s3_title": "03. Uso de la Información",
+        "s3_desc": "Su información se utiliza únicamente para:",
+        "s3_items": [
+            "Diseñar protocolos de dirección personalizados.",
+            "Estructurar comunicaciones institucionales.",
+            "Mantener un historial de inteligencia de proyectos.",
+            "Asegurar el control operativo de nuestras consultas."
+        ],
+        "s4_title": "04. Derechos y Control",
+        "s4_desc": "Usted mantiene el control total sobre sus datos corporativos. En cualquier momento puede solicitar el acceso, rectificación o eliminación de su información enviando una correspondencia electrónica a ",
+        "s4_email": "hi@clienses.com",
+        "s4_desc_end": ".",
+        "footer_note": "Última actualización: Diciembre 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "terms": {
+        "pillar": "MARCO NORMATIVO",
+        "hero_title1": "TÉRMINOS Y",
+        "hero_title_accent": "CONDICIONES.",
+        "s1_title": "01. Objeto",
+        "s1_desc": "El acceso y uso de este sitio web institucional atribuye la condición de usuario e implica la aceptación total de los presentes términos. CLIENSES es una firma de dirección estratégica que opera bajo criterios de madurez profesional y rigor intelectual.",
+        "s2_title": "02. Propiedad Intelectual",
+        "s2_desc": "Todo el contenido visual, tipográfico y estratégico de este sitio —incluyendo el concepto \"Marcas con Intención\" y el framework institucional— es propiedad exclusiva de CLIENSES. Queda prohibida la reproducción, distribución o uso decorativo de cualquier recurso sin autorización escrita.",
+        "s3_title": "03. Alcance de los Servicios",
+        "s3_desc": "La información presentada en este sitio web tiene carácter consultivo y orientativo. La relación formal de servicios de dirección estratégica se rige por contratos independientes y protocolos de control operativo específicos para cada proyecto.",
+        "s4_title": "04. Responsabilidad",
+        "s4_desc": "La Firma no se hace responsable de las interpretaciones erróneas de los conceptos estratégicos presentados. Nuestros sistemas están diseñados para entornos corporativos y líderes institucionales con capacidad de dirección.",
+        "s5_title": "05. Jurisdicción",
+        "s5_desc": "Cualquier controversia relacionada con el uso de este sitio se someterá a las leyes vigentes en la República Dominicana, bajo la jurisdicción del Distrito Nacional.",
+        "footer_note": "Última actualización: Diciembre 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "contact": {
+        "label": "CONTACTO CONFIDENCIAL",
+        "title": "CONSULTA",
+        "title_accent": "ESTRATÉGICA",
+        "success_title": "SOLICITUD RECIBIDA",
+        "success_desc": "Su caso ha sido comunicado de manera segura a los directores de Clienses. Nos pondremos en contacto a la brevedad para estructurar los siguientes pasos.",
+        "success_cta": "CONTINUAR NAVEGANDO",
+        "form_desc": "Complete el siguiente formulario estructurado para detallar su caso. Toda la información es manejada bajo nuestro estricto protocolo de confidencialidad.",
+        "error_title": "Error de Sistema",
+        "error_default": "Ocurrió un error inesperado.",
+        "name_label": "Nombre Completo o Empresa",
+        "name_placeholder": "John Doe / Acme Corp",
+        "email_label": "Email Corporativo",
+        "email_placeholder": "director@empresa.com",
+        "phone_label": "Teléfono de Contacto",
+        "phone_placeholder": "+1 (555) 000-0000",
+        "intent_label": "Intención Estratégica",
+        "intent_placeholder": "Detalle brevemente qué problemática busca estructurar, dirigir o solucionar...",
+        "submit": "ENVIAR SOLICITUD CONFIDENCIAL",
+        "submitting": "ENCRIPTANDO Y ENVIANDO..."
+    },
+    "cookies": {
+        "text": "Clienses utiliza tecnologías de rastreo y cookies estrictamente necesarias para estructurar y mejorar su experiencia de navegación. Al continuar, usted acepta nuestras",
+        "link": "Políticas de Privacidad",
+        "text_end": "resolviendo operar bajo confidencialidad estructurada.",
+        "accept": "ACEPTAR Y CONTINUAR",
+        "close": "Cerrar"
+    },
+    "footer": {
+        "tagline": "Firma Estratégica",
+        "desc": "Aportamos claridad, dirección y estructura a organizaciones preparadas para escalar con intención, exclusivamente en la ",
+        "desc_accent": "República Dominicana",
+        "est": "EST. 2018 · REPÚBLICA DOMINICANA",
+        "pillars_label": "PILARES",
+        "pillar1": "Dirección",
+        "pillar2": "Estructura",
+        "pillar3": "Escalamiento",
+        "firm_label": "LA FIRMA",
+        "firm_context": "Contexto",
+        "firm_consult": "Consulta",
+        "channels_label": "CANALES",
+        "channels_cta": "SOLICITAR CONSULTA",
+        "silent_power": "PODER SILENCIOSO.",
+        "privacy": "Privacidad",
+        "terms": "Términos"
+    }
+}

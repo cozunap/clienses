@@ -1,0 +1,369 @@
+{
+    "common": {
+        "loading": "Loading..."
+    },
+    "nav": {
+        "strategy": "Strategy",
+        "intelligence": "Intelligence",
+        "expansion": "Expansion",
+        "about": "About Us",
+        "contact": "Contact Firm"
+    },
+    "hero": {
+        "slides": [
+            {
+                "subtitle": "STRATEGIC CONSULTING · UNWAVERING DIRECTION",
+                "title1": "CLARITY IN",
+                "title_accent": "DIRECTION",
+                "desc": "Elite consulting and organizational design firm. Structured business architecture to lead and capture high-value organic traffic, exclusively in the ",
+                "desc_bold": "Dominican Republic.",
+                "market": "DOMINICAN MARKET",
+                "marker": "STRATEGIC_CONSULTING"
+            },
+            {
+                "subtitle": "ORGANIZATIONAL DESIGN · ZERO IMPROVISATION",
+                "title1": "BUILDING",
+                "title_accent": "STRUCTURE",
+                "desc": "Predictable corporate systems that scale operations and solidify your authority to achieve the highest industry ranking and grow your organic reach in the ",
+                "desc_bold": "Dominican Republic.",
+                "market": "DOMINICAN REPUBLIC",
+                "marker": "ORGANIZATIONAL_DESIGN"
+            },
+            {
+                "subtitle": "ORGANIC GROWTH · SUSTAINABLE EXPANSION",
+                "title1": "SCALING",
+                "title_accent": "MODELS",
+                "desc": "We transform your growth model through aggressive SEO strategies and commercial architecture to multiply authority and B2B conversions in the ",
+                "desc_bold": "Dominican Republic.",
+                "market": "DR EXCLUSIVE",
+                "marker": "ORGANIC_SCALING"
+            }
+        ],
+        "cta": "START YOUR ARCHITECTURE",
+        "sidebar": "We bring clarity, direction, and structure to organizations ready for the next level of authority."
+    },
+    "services": {
+        "label": "SERVICE FRAMEWORK",
+        "title": "DIRECTION WITH",
+        "title_accent": "STRUCTURE.",
+        "desc": "Clienses operates under three fundamental pillars that replace improvisation with ",
+        "desc_accent": "strategic architecture",
+        "desc_end": " throughout the Dominican Republic.",
+        "quote_label": "\"Silent Power\"",
+        "quote": "\"We design the conceptual command that sustains scale.\"",
+        "pillars": [
+            {
+                "title": "Strategic Direction",
+                "desc": "We bring clarity and direction to organizations ready for the next level of authority."
+            },
+            {
+                "title": "Internal Organization",
+                "desc": "We structure operational and conceptual systems to eliminate the fragility of growth."
+            },
+            {
+                "title": "Sustainable Scaling",
+                "desc": "We design the architecture needed to expand the brand with intention and control."
+            }
+        ]
+    },
+    "brand": {
+        "label": "BRAND ENERGY",
+        "title": "SILENT",
+        "title_accent": "POWER.",
+        "body": "Clienses is perceived as modern sophistication and ",
+        "body_accent": "structural confidence",
+        "body_end": ". It doesn't shout. It sustains across the region.",
+        "principle_label": "Voice Principle",
+        "principle_title": "MEAN",
+        "principle_title2": "MORE.",
+        "taglines": [
+            "Say less.",
+            "Avoid dramatization.",
+            "Direct and confident throughout the "
+        ],
+        "tagline_accent": "Dominican Republic"
+    },
+    "method": {
+        "label": "INTERVENTION PROTOCOL",
+        "title": "SYSTEMS BUILT",
+        "title_accent": "TO LAST.",
+        "desc": "Our methodology strips away the unnecessary to focus on what generates ",
+        "desc_accent": "intellectual authority",
+        "desc_end": ".",
+        "steps": [
+            {
+                "title": "Intent Diagnosis",
+                "description": "We analyze the core direction to identify structural gaps."
+            },
+            {
+                "title": "Architectural Modeling",
+                "description": "We design the logical structure that will sustain the next scaling phase."
+            },
+            {
+                "title": "Command Deployment",
+                "description": "We implement control and direction systems within the organization."
+            },
+            {
+                "title": "Continuous Oversight",
+                "description": "We ensure strategic architecture remains intact and timeless."
+            }
+        ]
+    },
+    "strategy": {
+        "pillar": "PILLAR 01 · STRATEGIC DIRECTION",
+        "hero_title1": "ARCHITECTURE",
+        "hero_title_accent": "OF DIRECTION.",
+        "hero_desc": "Design of the guiding intention and the ",
+        "hero_desc_accent": "conceptual command",
+        "hero_desc_end": " of the organization.",
+        "hero_quote": "\"Without clear direction, structure is just a burden. Without structure, direction is just a wish.\"",
+        "content_title": "CLARITY IN",
+        "content_title_accent": "COMMAND.",
+        "content_desc": "Strategic direction is not planning; it is the absolute definition of the firm's identity and future. At Clienses, we work with executives throughout the ",
+        "content_desc_accent": "Dominican Republic",
+        "content_desc_end": " to ensure their vision is actionable.",
+        "section1_title": "4.1 Strategic Direction",
+        "section1_items": [
+            "Organizational maturity diagnosis.",
+            "Strategic plan and roadmap design.",
+            "Business model structuring.",
+            "Structural and operational audit.",
+            "Competitive analysis."
+        ],
+        "section2_title": "4.2 Brand & Market Direction",
+        "section2_items": [
+            "Corporate brand architecture.",
+            "Institutional narrative.",
+            "Value proposition.",
+            "Competitive positioning.",
+            "Strategic communication frameworks."
+        ]
+    },
+    "intelligence": {
+        "pillar": "PILLAR 02 · INTERNAL ORGANIZATION",
+        "hero_title1": "ELIMINATE",
+        "hero_title_accent": "FRAGILITY.",
+        "hero_desc": "We structure the organization so that scale does not compromise ",
+        "hero_desc_accent": "operational integrity",
+        "hero_desc_end": ".",
+        "hero_quote": "\"Growth without structure is just an invitation to controlled chaos. We remove the chaos.\"",
+        "content_title": "OPERATIONAL",
+        "content_title_accent": "RIGOR.",
+        "content_desc": "Managerial intelligence manifests in the company's ability to function with mathematical precision. We optimize every command node to ensure continuity throughout the ",
+        "content_desc_accent": "entire Dominican Republic",
+        "content_desc_end": ".",
+        "section1_title": "4.3 Project Management — PMO",
+        "section1_items": [
+            "Design and implementation of Project Management Office.",
+            "Comprehensive management of strategic initiatives.",
+            "Risk management, scheduling, and executive reporting."
+        ],
+        "section2_title": "4.4 Operational & Logistics Management",
+        "section2_items": [
+            "Supply chain restructuring.",
+            "Operational process optimization.",
+            "Inventory and distribution management.",
+            "Domestic and international logistics.",
+            "Operational KPI definition."
+        ]
+    },
+    "expansion": {
+        "pillar": "PILLAR 03 · SUSTAINABLE SCALING",
+        "hero_title1": "CONTROL",
+        "hero_title_accent": "THE SCALE.",
+        "hero_desc": "Strategic architecture to expand the brand and capture ",
+        "hero_desc_accent": "regional market authority",
+        "hero_desc_end": ".",
+        "hero_quote": "\"Scaling is not about getting bigger; it's about getting stronger without losing the original intention.\"",
+        "content_title": "REGIONAL",
+        "content_title_accent": "AUTHORITY.",
+        "content_desc": "We design your organization's deployment into new territories under a ",
+        "content_desc_bold": "Controlled Expansion",
+        "content_desc_mid": " framework, ensuring the conceptual command remains intact. From the ",
+        "content_desc_accent": "Dominican Republic",
+        "content_desc_end": " to the strategic markets of ",
+        "content_desc_markets": "United States, Canada, Latin America and the Caribbean.",
+        "items": [
+            "Territorial Expansion Strategy",
+            "Franchise and Licensing Modeling",
+            "Vertical Growth Architecture",
+            "International Authority Deployment"
+        ]
+    },
+    "about": {
+        "pillar": "INSTITUTIONAL DOCUMENT · THE FIRM",
+        "hero_title1": "DIRECTION WITH",
+        "hero_title_accent": "STRUCTURE.",
+        "hero_desc": "Strategic direction and project management firm that intervenes by structuring the critical factors for sustainable growth.",
+        "origin_title": "ORIGIN &",
+        "origin_title_accent": "IDENTITY",
+        "origin_desc": "Clienses emerges from the conceptual fusion of \"Clients\" and \"Strategy\", symbolizing the indivisible integration between client-centricity and strategic discipline. This convergence defines the firm as a unified management system, where every strategy is designed and executed to drive the client's sustainable growth.",
+        "philosophy_label": "Name Philosophy",
+        "philosophy_item1_bold": "Client with direction:",
+        "philosophy_item1": " Absolute focus on the client's needs and objectives as the axis of every intervention.",
+        "philosophy_item2_bold": "Strategy with purpose:",
+        "philosophy_item2": " Methodological rigor and long-term vision to transform challenges into structured opportunities.",
+        "philosophy_item3_bold": "Growth with structure:",
+        "philosophy_item3": " Controlled scalability, aligning actions with solid strategic frameworks.",
+        "philosophy_quote": "\"Clienses: Where strategy becomes sustainable direction for the client.\"",
+        "history_label": "HISTORY",
+        "history_title": "INSTITUTIONAL",
+        "history_title_accent": "REVIEW",
+        "history_p1": "Founded in 2018 in the Dominican Republic, Clienses emerged by identifying a recurring structural pattern: organizations don't fail due to lack of activity, but due to the absence of integral strategic direction. Today, Clienses operates as an integrated management firm (strategy, brand, projects, and operations), headquartered in Santo Domingo with active reach toward the United States and Canada.",
+        "history_diagnosis_label": "Foundational Diagnosis",
+        "history_diagnosis": "Organizations fail because their actions lack a strategic architecture to order and control them. Dispersed actions without strategic framework, absence of structure, and lack of control over results were identified. Based on this, a methodology was developed that integrates strategy, management, and execution into a unified system.",
+        "history_impact_label": "Impact Examples",
+        "history_impact1_title": "Expanding organization",
+        "history_impact1_desc": "Operational optimization → 25% reduction in inefficiencies and 18% margin increase in six months.",
+        "history_impact2_title": "Company in restructuring",
+        "history_impact2_desc": "PMO implementation → on-time and on-budget deliveries, 35% ROI.",
+        "history_impact3_title": "Repositioning project",
+        "history_impact3_desc": "Strategic redefinition → increased value perception and competitive differentiation.",
+        "fundamentals_label": "STRATEGIC FOUNDATIONS",
+        "fundamentals_title": "LEAD WITH",
+        "fundamentals_title_accent": "PURPOSE.",
+        "purpose_title": "Purpose",
+        "purpose_desc": "We exist to provide strategic direction to organizations seeking clarity, structure, and control for sustainable growth.",
+        "mission_title": "Mission",
+        "mission_desc": "We direct strategic, operational, and management processes, integrating rigorous analysis, precise planning, and disciplined execution to generate measurable results with lasting impact.",
+        "vision_title": "Vision",
+        "vision_desc": "To be the benchmark firm in strategic direction in the Caribbean and Latin America, with a consolidated presence in the United States and Canada, recognized for its rigorous methodology and capacity to lead high-impact transformations.",
+        "values_label": "Institutional Values",
+        "values": [
+            "Strategy before action",
+            "Professional rigor",
+            "Clarity in decisions",
+            "Strategic accountability",
+            "Long-term vision"
+        ],
+        "org_label": "Organizational Structure",
+        "org_desc": "Horizontal structure oriented toward agility and strategic control. Scalability through associated consultants and strategic alliances aligned with institutional values.",
+        "org_items": [
+            "· General Management",
+            "· Strategic Area",
+            "· Brand Area",
+            "· PMO / Projects",
+            "· Operational Area"
+        ],
+        "markets_label": "OPERATING MARKETS",
+        "markets_hq_label": "Headquarters",
+        "markets_hq": "Dominican Republic",
+        "markets_expansion_label": "Active Expansion",
+        "markets_expansion": "United States · Canada",
+        "markets_regional_label": "Regional Reach",
+        "markets_regional": "Latin America · Caribbean",
+        "positioning_title": "STRATEGIC",
+        "positioning_title_accent": "POSITIONING",
+        "positioning_desc": "Structural intervention focused on measurable ROI (typically ",
+        "positioning_roi": "25-40%",
+        "positioning_desc_end": " in complete interventions).",
+        "contexts_label": "Intervention Contexts",
+        "contexts": [
+            "→ Controlled expansion",
+            "→ Organizational restructuring",
+            "→ Institutional professionalization",
+            "→ Strategic redefinition"
+        ],
+        "modalities_label": "Agreement Modalities",
+        "modality1_bold": "Consulting:",
+        "modality1": " diagnosis (4-6 wks.)",
+        "modality2_bold": "Management:",
+        "modality2": " active direction (6-12 mo.)",
+        "modality3_bold": "Accompaniment:",
+        "modality3": " ongoing advisory",
+        "modality4_bold": "Targeted intervention:",
+        "modality4": " specific decisions",
+        "nda_note": "* NDA integrated into all relationships.",
+        "roadmap_label": "Expansion Roadmap",
+        "roadmap1_period": "2026 - 2027",
+        "roadmap1_desc": "Consolidation in Dominican Republic → 50 active clients, annual revenue RD$50M.",
+        "roadmap2_period": "2028 - 2030",
+        "roadmap2_desc": "Entry into United States and Canada → 20% cross-border projects, NPS >80.",
+        "roadmap3_period": "2031+",
+        "roadmap3_desc": "Regional leadership → 25% Caribbean and Latin America market share, average ROI 35-40%."
+    },
+    "privacy": {
+        "pillar": "CONFIDENTIALITY",
+        "hero_title1": "PRIVACY",
+        "hero_title_accent": "POLICY.",
+        "s1_title": "01. Firm Commitment",
+        "s1_desc": "At CLIENSES (hereinafter, \"the Firm\"), confidentiality is not just a legal obligation, but a fundamental pillar of our strategic criteria. We treat all information received from our prospects and clients with the highest institutional rigor.",
+        "s2_title": "02. Data Collection",
+        "s2_desc": "We collect information exclusively for strategic contact and consulting purposes. This includes names, corporate emails, and project details you choose to share through our official channels. We do not collect data for mass audiences or informal advertising purposes.",
+        "s3_title": "03. Use of Information",
+        "s3_desc": "Your information is used solely for:",
+        "s3_items": [
+            "Designing personalized management protocols.",
+            "Structuring institutional communications.",
+            "Maintaining a project intelligence history.",
+            "Ensuring operational control of our inquiries."
+        ],
+        "s4_title": "04. Rights and Control",
+        "s4_desc": "You maintain full control over your corporate data. At any time you may request access, rectification, or deletion of your information by sending an electronic correspondence to ",
+        "s4_email": "hi@clienses.com",
+        "s4_desc_end": ".",
+        "footer_note": "Last update: December 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "terms": {
+        "pillar": "REGULATORY FRAMEWORK",
+        "hero_title1": "TERMS &",
+        "hero_title_accent": "CONDITIONS.",
+        "s1_title": "01. Object",
+        "s1_desc": "Accessing and using this institutional website attributes user status and implies full acceptance of these terms. CLIENSES is a strategic management firm that operates under criteria of professional maturity and intellectual rigor.",
+        "s2_title": "02. Intellectual Property",
+        "s2_desc": "All visual, typographic, and strategic content on this site—including the concept \"Brands with Intention\" and the institutional framework—is the exclusive property of CLIENSES. Reproduction, distribution, or decorative use of any resource without written authorization is prohibited.",
+        "s3_title": "03. Scope of Services",
+        "s3_desc": "The information presented on this website is consultative and guidance-oriented in nature. The formal relationship for strategic management services is governed by independent contracts and specific operational control protocols for each project.",
+        "s4_title": "04. Liability",
+        "s4_desc": "The Firm is not responsible for misinterpretations of the strategic concepts presented. Our systems are designed for corporate environments and institutional leaders with management capacity.",
+        "s5_title": "05. Jurisdiction",
+        "s5_desc": "Any dispute related to the use of this site shall be subject to the laws in force in the Dominican Republic, under the jurisdiction of the Distrito Nacional.",
+        "footer_note": "Last update: December 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "contact": {
+        "label": "CONFIDENTIAL CONTACT",
+        "title": "STRATEGIC",
+        "title_accent": "CONSULTATION",
+        "success_title": "REQUEST RECEIVED",
+        "success_desc": "Your case has been securely communicated to the directors of Clienses. We will contact you shortly to structure the next steps.",
+        "success_cta": "CONTINUE BROWSING",
+        "form_desc": "Complete the following structured form to detail your case. All information is handled under our strict confidentiality protocol.",
+        "error_title": "System Error",
+        "error_default": "An unexpected error occurred.",
+        "name_label": "Full Name or Company",
+        "name_placeholder": "John Doe / Acme Corp",
+        "email_label": "Corporate Email",
+        "email_placeholder": "director@company.com",
+        "phone_label": "Contact Phone",
+        "phone_placeholder": "+1 (555) 000-0000",
+        "intent_label": "Strategic Intent",
+        "intent_placeholder": "Briefly describe the problem you are looking to structure, direct, or solve...",
+        "submit": "SEND CONFIDENTIAL REQUEST",
+        "submitting": "ENCRYPTING AND SENDING..."
+    },
+    "cookies": {
+        "text": "Clienses uses tracking technologies and cookies strictly necessary to structure and improve your browsing experience. By continuing, you accept our",
+        "link": "Privacy Policies",
+        "text_end": "resolving to operate under structured confidentiality.",
+        "accept": "ACCEPT AND CONTINUE",
+        "close": "Close"
+    },
+    "footer": {
+        "tagline": "Strategic Firm",
+        "desc": "We bring clarity, direction, and structure to organizations ready to scale with intention, exclusively in the ",
+        "desc_accent": "Dominican Republic",
+        "est": "EST. 2018 · DOMINICAN REPUBLIC",
+        "pillars_label": "PILLARS",
+        "pillar1": "Direction",
+        "pillar2": "Structure",
+        "pillar3": "Scaling",
+        "firm_label": "THE FIRM",
+        "firm_context": "Context",
+        "firm_consult": "Consult",
+        "channels_label": "CHANNELS",
+        "channels_cta": "REQUEST CONSULTATION",
+        "silent_power": "SILENT POWER.",
+        "privacy": "Privacy",
+        "terms": "Terms"
+    }
+}

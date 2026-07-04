@@ -1,0 +1,369 @@
+{
+    "common": {
+        "loading": "Chajman..."
+    },
+    "nav": {
+        "strategy": "Strategy",
+        "intelligence": "Entèlijans",
+        "expansion": "Ekspansyon",
+        "about": "Sou Nou",
+        "contact": "Kontakte Kabinèt la"
+    },
+    "hero": {
+        "slides": [
+            {
+                "subtitle": "KONSÈY ESTRATEJIK · DIREKSYON ENBRANLAB",
+                "title1": "KLÈTE NAN",
+                "title_accent": "DIREKSYON",
+                "desc": "Kabinè elit nan konsèy estratejik ak konsepsyon òganizasyonèl. Achitekti biznis estriktiré pou dirije ak kaptire trafik òganik valè wo, eksklizivman nan ",
+                "desc_bold": "Repiblik Dominikèn.",
+                "market": "MACHE DOMINIKEN",
+                "marker": "KONSÈY_ESTRATEJIK"
+            },
+            {
+                "subtitle": "KONSEPSYON ÒGANIZASYONÈL · ZEWO ENPWOVIZASYON",
+                "title1": "KONSTRIKSYON",
+                "title_accent": "ESTRIKTI",
+                "desc": "Sistèm korporatif prediksib ki ogmante operasyon yo epi solidifye otorite w pou jwenn ranje ki pi wo nan endistrizi ou nan ",
+                "desc_bold": "Repiblik Dominikèn.",
+                "market": "REPIBLIK DOMINIKÈN",
+                "marker": "KONSEPSYON_ÒGANIZASYONÈL"
+            },
+            {
+                "subtitle": "KWASANS ÒGANIK · EKSPANSYON DIRAB",
+                "title1": "MODÈL",
+                "title_accent": "ESKALMAN",
+                "desc": "Nou transfòme modèl kwasans ou atravè estrateji SEO agresif ak achitekti komèsyal pou miltipliye otorite ak konvèsyon B2B nan ",
+                "desc_bold": "Repiblik Dominikèn.",
+                "market": "RD EKSKLIZIF",
+                "marker": "KWASANS_ÒGANIK"
+            }
+        ],
+        "cta": "KÒMANSE ACHITEKTI",
+        "sidebar": "Nou bay klète, direksyon ak estrikti pou òganizasyon ki pare pou nivo otorite pwochèn."
+    },
+    "services": {
+        "label": "KAD SÈVIS",
+        "title": "DIREKSYON AK",
+        "title_accent": "ESTRIKTI.",
+        "desc": "Clienses opere sou twa pilye fondamantal ki ranplase enpwovizasyon ak ",
+        "desc_accent": "achitekti estratejik",
+        "desc_end": " nan tout Repiblik Dominikèn.",
+        "quote_label": "\"Pouvwa Silans\"",
+        "quote": "\"Nou konsevwa kòmandman konseptyèl ki sipòte echèl la.\"",
+        "pillars": [
+            {
+                "title": "Direksyon Estratejik",
+                "desc": "Nou bay klète ak direksyon pou òganizasyon ki pare pou nivo otorite pwochèn."
+            },
+            {
+                "title": "Òganizasyon Entèn",
+                "desc": "Nou estriktire sistèm operasyonèl ak konseptyèl pou elimine fragilite kwasans lan."
+            },
+            {
+                "title": "Eskalman Dirab",
+                "desc": "Nou konsevwa achitekti ki nesesè pou devlope mak la ak entansyon ak kontwòl."
+            }
+        ]
+    },
+    "brand": {
+        "label": "ENÈJI MAK",
+        "title": "POUVWA",
+        "title_accent": "SILANS.",
+        "body": "Clienses pèsevwa kòm sofistikasyon modèn ak ",
+        "body_accent": "sekirite estriktirèl",
+        "body_end": ". Li pa rele. Li sipòte nan tout rejyon an.",
+        "principle_label": "Prensip Vwa",
+        "principle_title": "SIYIFYE",
+        "principle_title2": "PLI.",
+        "taglines": [
+            "Di mwens.",
+            "Evite dramatizasyon.",
+            "Dirèk ak an sekirite nan tout "
+        ],
+        "tagline_accent": "Repiblik Dominikèn"
+    },
+    "method": {
+        "label": "PROTOKÒL ENTÈVANSYON",
+        "title": "SISTÈM POU",
+        "title_accent": "DIRE.",
+        "desc": "Metodoloji nou an retire sa ki pa nesesè pou konsantre sou sa ki jenere ",
+        "desc_accent": "otorite entelektyèl",
+        "desc_end": ".",
+        "steps": [
+            {
+                "title": "Dyagnostik Entansyon",
+                "description": "Nou analize nwayo direksyon an pou idantifye eka estriktirèl."
+            },
+            {
+                "title": "Modèlizasyon Achitektikal",
+                "description": "Nou konsevwa estrikti lojik ki pral sipòte faz eskalman pwochèn."
+            },
+            {
+                "title": "Deplwaman Kòmandman",
+                "description": "Nou enplemante sistèm kontwòl ak direksyon nan òganizasyon an."
+            },
+            {
+                "title": "Siveyans Kontinye",
+                "description": "Nou asirejwe achitekti estratejik la rete entakt ak atemporèl."
+            }
+        ]
+    },
+    "strategy": {
+        "pillar": "PILYE 01 · DIREKSYON ESTRATEJIK",
+        "hero_title1": "ACHITEKTI",
+        "hero_title_accent": "DIREKSYON.",
+        "hero_desc": "Konsepsyon entansyon direktif ak ",
+        "hero_desc_accent": "kòmandman konseptyèl",
+        "hero_desc_end": " òganizasyon an.",
+        "hero_quote": "\"San yon direksyon klè, estrikti se jis yon chay. San estrikti, direksyon se jis yon dezi.\"",
+        "content_title": "KLÈTE NAN",
+        "content_title_accent": "KÒMANDMAN.",
+        "content_desc": "Direksyon estratejik se pa planifikasyon; se definisyon absoli idantite ak avni kabinèt la. Nan Clienses, nou travay ak direktè nan tout ",
+        "content_desc_accent": "Repiblik Dominikèn",
+        "content_desc_end": " pou asire vizyon yo kapab egzekite.",
+        "section1_title": "4.1 Direksyon Estratejik",
+        "section1_items": [
+            "Dyagnostik matyalite òganizasyonèl.",
+            "Konsepsyon plan estratejik ak fèy wout.",
+            "Estriktifye modèl biznis.",
+            "Odit estriktirèl ak operasyonèl.",
+            "Analiz konkiransyèl."
+        ],
+        "section2_title": "4.2 Direksyon Mak ak Mache",
+        "section2_items": [
+            "Achitekti mak korporatif.",
+            "Naratif enstitisyonèl.",
+            "Pwopozisyon valè.",
+            "Pozisyonman konkiransyèl.",
+            "Kad estratejik kominikasyon."
+        ]
+    },
+    "intelligence": {
+        "pillar": "PILYE 02 · ÒGANIZASYON ENTÈN",
+        "hero_title1": "ELIMINE",
+        "hero_title_accent": "FRAGILITE.",
+        "hero_desc": "Nou estriktire òganizasyon an pou echèl la pa konpwomèt ",
+        "hero_desc_accent": "entegrite operasyonèl",
+        "hero_desc_end": ".",
+        "hero_quote": "\"Kwasans san estrikti se jis yon envitasyon nan kaos kontwole. Nou retire kaos la.\"",
+        "content_title": "RIJÈ",
+        "content_title_accent": "OPERASYONÈL.",
+        "content_desc": "Entèlijans manajeryal manifeste nan kapasite antrepriz lan pou fonksyone ak presizyon matematik. Nou optimize chak nœud kòmandman pou asire kontinwite nan tout ",
+        "content_desc_accent": "Repiblik Dominikèn",
+        "content_desc_end": ".",
+        "section1_title": "4.3 Jesyon Pwojè — PMO",
+        "section1_items": [
+            "Konsepsyon ak miz an plas Biwo Jesyon Pwojè.",
+            "Jesyon konplè inisyativ estratejik yo.",
+            "Jesyon risk, kalandriye, ak rapò egzekitif."
+        ],
+        "section2_title": "4.4 Direksyon Operasyonèl ak Lojistik",
+        "section2_items": [
+            "Restriktifye chèn apwovizyonman.",
+            "Optimize pwosesis operasyonèl.",
+            "Jesyon envantè ak distribisyon.",
+            "Lojistik nasyonal ak entènasyonal.",
+            "Definisyon KPI operasyonèl."
+        ]
+    },
+    "expansion": {
+        "pillar": "PILYE 03 · ESKALMAN DIRAB",
+        "hero_title1": "KONTWÒL",
+        "hero_title_accent": "ECHÈL LA.",
+        "hero_desc": "Achitekti estratejik pou devlope mak la ak kaptire ",
+        "hero_desc_accent": "otorite mache rejyonal",
+        "hero_desc_end": ".",
+        "hero_quote": "\"Eskalman se pa vin pi gran; se vin pi fò san pèdi entansyon orijinal la.\"",
+        "content_title": "OTORITE",
+        "content_title_accent": "REJYONAL.",
+        "content_desc": "Nou konsevwa deplwaman òganizasyon ou nan nouvo teritwa sou yon skèm ",
+        "content_desc_bold": "Ekspansyon Kontwole",
+        "content_desc_mid": ", pou asire kòmandman konseptyèl la rete entakt. Soti nan ",
+        "content_desc_accent": "Repiblik Dominikèn",
+        "content_desc_end": " vè mache estratejik ",
+        "content_desc_markets": "Etazini, Kanada, Amerik Latin ak Karayib.",
+        "items": [
+            "Estrateji Ekspansyon Teritoryèl",
+            "Modèlizasyon Franchiz ak Lisans",
+            "Achitekti Kwasans Vètikal",
+            "Deplwaman Otorite Entènasyonal"
+        ]
+    },
+    "about": {
+        "pillar": "DOKIMAN ENSTITISYONÈL · KABINÈT LA",
+        "hero_title1": "DIREKSYON AK",
+        "hero_title_accent": "ESTRIKTI.",
+        "hero_desc": "Kabinèt direksyon estratejik ak jesyon pwojè ki entèvni nan estriktifye faktè kritik pou kwasans dirab.",
+        "origin_title": "ORIJIN AK",
+        "origin_title_accent": "IDANTITE",
+        "origin_desc": "Clienses soti nan fizyon konseptyèl \"Clients\" ak \"Estrateji\", simbolizan entegrasyon endivizib ant santralizasyon kliyan ak disiplin estratejik. Konvèjans sa a defini kabinèt la kòm yon sistèm direkcyon inifye, kote chak estrateji konsevwa ak egzekite pou pwomouvwa kwasans dirab kliyan an.",
+        "philosophy_label": "Filozofi Non an",
+        "philosophy_item1_bold": "Kliyan ak direksyon:",
+        "philosophy_item1": " Konsantrasyon absoli sou bezwen ak objektif kliyan kòm aks tout entèvansyon.",
+        "philosophy_item2_bold": "Estrateji ak bi:",
+        "philosophy_item2": " Rijè metodolojik ak vizyon alontèm pou transfòme defi an opòtinite estriktire.",
+        "philosophy_item3_bold": "Kwasans ak estrikti:",
+        "philosophy_item3": " Eskalabilite kontwole, aliyen aksyon yo ak kad estratejik solid.",
+        "philosophy_quote": "\"Clienses: Kote estrateji vin direksyon dirab pou kliyan an.\"",
+        "history_label": "ISTWA",
+        "history_title": "REVIZYON",
+        "history_title_accent": "ENSTITISYONÈL",
+        "history_p1": "Fonde an 2018 nan Repiblik Dominikèn, Clienses parèt an idantifyan yon modèl estriktirèl rekiran: òganizasyon yo pa echwe pou mank aktivite, men pou absans direksyon estratejik entegral. Jodi a, Clienses opere kòm yon kabinèt direksyon entegral (estrateji, mak, pwojè ak operasyon), ak syèj nan Santo Domingo ak pwojeksyon aktif vè Etazini ak Kanada.",
+        "history_diagnosis_label": "Dyagnostik Fondatè",
+        "history_diagnosis": "Òganizasyon yo echwe paske aksyon yo manke yon achitekti estratejik pou òdone ak kontwole yo. Aksyon dispèse san kad estratejik, absans estrikti, ak mank kontwòl sou rezilta yo te idantifye. Sou baz sa, yon metodoloji te devlope ki entegre estrateji, jesyon ak egzekisyon nan yon sistèm inifye.",
+        "history_impact_label": "Egzanp Enpak",
+        "history_impact1_title": "Òganizasyon an ekspansyon",
+        "history_impact1_desc": "Optimizasyon operasyonèl → reduksyon inefikasite 25% ak ogmantasyon maj 18% nan sis mwa.",
+        "history_impact2_title": "Antrepriz nan restriktifisasyon",
+        "history_impact2_desc": "Miz an plas PMO → livrezon alè ak nan bidjè, ROI 35%.",
+        "history_impact3_title": "Pwojè reposisyonman",
+        "history_impact3_desc": "Redefinisyon estratejik → ogmantasyon pèsepsyon valè ak diferansyasyon konkiransyèl.",
+        "fundamentals_label": "FONDMAN ESTRATEJIK",
+        "fundamentals_title": "DIRIJE AK",
+        "fundamentals_title_accent": "BI.",
+        "purpose_title": "Bi",
+        "purpose_desc": "Nou egziste pou bay direksyon estratejik a òganizasyon k ap chèche klète, estrikti ak kontwòl pou kwasans dirab.",
+        "mission_title": "Misyon",
+        "mission_desc": "Nou dirije pwosesis estratejik, operasyonèl ak jesyon, an entegran analiz rikèl, planifikasyon presiz ak egzekisyon disipline pou jenere rezilta mezirabl ak enpak dirab.",
+        "vision_title": "Vizyon",
+        "vision_desc": "Vin kabinèt referans nan direksyon estratejik nan Karayib ak Amerik Latin, ak prezans konsolide nan Etazini ak Kanada, rekonèt pou metodoloji rikèl li ak kapasite pou mennen transfòmasyon gwo enpak.",
+        "values_label": "Valè Enstitisyonèl",
+        "values": [
+            "Estrateji anvan aksyon",
+            "Rijè pwofesyonèl",
+            "Klète nan desizyon",
+            "Responsablite estratejik",
+            "Vizyon alontèm"
+        ],
+        "org_label": "Estrikti Òganizasyonèl",
+        "org_desc": "Estrikti orizontal oryante vè agilite ak kontwòl estratejik. Eskalabilite atravè konsiltàn asosye ak alians estratejik aliyen ak valè enstitisyonèl yo.",
+        "org_items": [
+            "· Direksyon Jeneral",
+            "· Zòn Estratejik",
+            "· Zòn Mak",
+            "· PMO / Pwojè",
+            "· Zòn Operasyonèl"
+        ],
+        "markets_label": "MACHE OPERASYON",
+        "markets_hq_label": "Syèj Prensipal",
+        "markets_hq": "Repiblik Dominikèn",
+        "markets_expansion_label": "Ekspansyon Aktif",
+        "markets_expansion": "Etazini · Kanada",
+        "markets_regional_label": "Pwojeksyon Rejyonal",
+        "markets_regional": "Amerik Latin · Karayib",
+        "positioning_title": "POZISYONMAN",
+        "positioning_title_accent": "ESTRATEJIK",
+        "positioning_desc": "Entèvansyon estriktirèl fokalize sou ROI mezirabl (tipikman ",
+        "positioning_roi": "25-40%",
+        "positioning_desc_end": " nan entèvansyon konplè yo).",
+        "contexts_label": "Kontèks Entèvansyon",
+        "contexts": [
+            "→ Ekspansyon kontwole",
+            "→ Restriktifisasyon òganizasyonèl",
+            "→ Pwofesyonalizasyon enstitisyonèl",
+            "→ Redefinisyon estratejik"
+        ],
+        "modalities_label": "Modalite Akò",
+        "modality1_bold": "Konsiltasyon:",
+        "modality1": " dyagnostik (4-6 sem.)",
+        "modality2_bold": "Direksyon:",
+        "modality2": " kondwit aktif (6-12 mwa)",
+        "modality3_bold": "Akonpayman:",
+        "modality3": " konsèy kontinyèl",
+        "modality4_bold": "Entèvansyon sible:",
+        "modality4": " desizyon espesifik",
+        "nda_note": "* NDA entegre nan tout relasyon.",
+        "roadmap_label": "Fèy Wout Ekspansyon",
+        "roadmap1_period": "2026 - 2027",
+        "roadmap1_desc": "Konsolidasyon nan Rep. Dominikèn → 50 kliyan aktif, revni anyèl RD$50M.",
+        "roadmap2_period": "2028 - 2030",
+        "roadmap2_desc": "Antre nan Etazini ak Kanada → 20% pwojè transfrontalye, NPS >80.",
+        "roadmap3_period": "2031+",
+        "roadmap3_desc": "Lidèchip rejyonal → 25% pati mache Karayib ak Amerik Latin, mwayèn ROI 35-40%."
+    },
+    "privacy": {
+        "pillar": "KONFIDANSYALITE",
+        "hero_title1": "POLITIK",
+        "hero_title_accent": "KONFIDANSYALITE.",
+        "s1_title": "01. Angajman Kabinèt la",
+        "s1_desc": "Nan CLIENSES (apre sa, \"Kabinèt la\"), konfidansyalite se pa sèlman yon obligasyon legal, men yon pilye fondamantal kriterè estratejik nou. Nou trete tout enfòmasyon resevwa soti nan prosprspèk ak kliyan nou yo ak rikèl enstitisyonèl ki pi wo.",
+        "s2_title": "02. Koleksyon Done",
+        "s2_desc": "Nou kolekte enfòmasyon eksklizivman pou rezon kontak estratejik ak konsiltasyon. Sa a enkli non, imèl korporatif ak detay pwojè ou chwazi pataje atravè chanèl ofisyèl nou yo. Nou pa kolekte done pou odyans mas ni pou rezon piblisite enfòmèl.",
+        "s3_title": "03. Itilizasyon Enfòmasyon",
+        "s3_desc": "Enfòmasyon ou yo itilize sèlman pou:",
+        "s3_items": [
+            "Konsevwa pwotokòl jesyon pèsonalize.",
+            "Estriktire kominikasyon enstitisyonèl.",
+            "Kenbe yon istwa entèlijans pwojè.",
+            "Asire kontwòl operasyonèl demann nou yo."
+        ],
+        "s4_title": "04. Dwa ak Kontwòl",
+        "s4_desc": "Ou kenbe kontwòl total sou done korporatif ou yo. Nenpòt ki lè ou ka mande aksè, rektifikasyon oswa sipresyon enfòmasyon ou yo an voyan yon korespondans elektwonik a ",
+        "s4_email": "hi@clienses.com",
+        "s4_desc_end": ".",
+        "footer_note": "Dènye mizajou: Desanm 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "terms": {
+        "pillar": "KAD NÒMATIF",
+        "hero_title1": "TÈM AK",
+        "hero_title_accent": "KONDISYON.",
+        "s1_title": "01. Objè",
+        "s1_desc": "Aksè ak itilizasyon sit enstitisyonèl sa a atribiye estati itilizatè epi enplike akseptasyon total tèm prezan yo. CLIENSES se yon kabinèt direksyon estratejik ki opere sou kriterè matirite pwofesyonèl ak rijè entelektyèl.",
+        "s2_title": "02. Pwopriyete Entelektyèl",
+        "s2_desc": "Tout kontni vizyon, tipografik ak estratejik sit sa a — enkli konsèp \"Mak ak Entansyon\" ak kad enstitisyonèl la — se pwopriyete eksklizif CLIENSES. Tout repwodiksyon, distribisyon oswa itilizasyon dekoratif nenpòt resous san otorizasyon ekri entèdi.",
+        "s3_title": "03. Pòte Sèvis",
+        "s3_desc": "Enfòmasyon prezante sou sit enstitisyonèl sa a gen karaktè konsiltatif ak oryantasyon. Relasyon fòmèl sèvis direksyon estratejik yo gouvène pa kontra endepandan ak pwotokòl kontwòl operasyonèl espesifik pou chak pwojè.",
+        "s4_title": "04. Responsablite",
+        "s4_desc": "Kabinèt la pa responsab menterpratasyon wo konsèp estratejik prezante yo. Sistèm nou yo konsevwa pou anviwonman korporatif ak lidè enstitisyonèl ki gen kapasite direksyon.",
+        "s5_title": "05. Jiridiksyon",
+        "s5_desc": "Nenpòt diferan ki gen rapò ak itilizasyon sit sa a pral soumèt a lwa aktyèl nan Repiblik Dominikèn, anba jiridiksyon Distri Nasyonal la.",
+        "footer_note": "Dènye mizajou: Desanm 2025 · CLIENSES STRATEGIC GROUP"
+    },
+    "contact": {
+        "label": "KONTAK KONFIDANSYÈL",
+        "title": "KONSILTASYON",
+        "title_accent": "ESTRATEJIK",
+        "success_title": "DEMANN RESEVWA",
+        "success_desc": "Ka ou a te kominike an sekirite bay direktè Clienses yo. N ap kontakte w talè pou n estriktire pwochen etap yo.",
+        "success_cta": "KONTINYE NAVIGASYON",
+        "form_desc": "Ranpli fòm estriktire sa a pou bay detay sou ka w la. Tout enfòmasyon yo trete selon pwotokòl konfidansyalite sevè nou an.",
+        "error_title": "Erè Sistèm",
+        "error_default": "Yon erè san atann te rive.",
+        "name_label": "Non konplè oswa konpayi",
+        "name_placeholder": "John Doe / Acme Corp",
+        "email_label": "Imèl antrepriz",
+        "email_placeholder": "direktè@konpayi.com",
+        "phone_label": "Telefòn kontak",
+        "phone_placeholder": "+1 (555) 000-0000",
+        "intent_label": "Entansyon estratejik",
+        "intent_placeholder": "Dekri yon ti tan pwoblèm ou vle estriktire, dirije oswa rezoud...",
+        "submit": "VOYE DEMANN KONFIDANSYÈL",
+        "submitting": "ANKRIPTE AK VOYE..."
+    },
+    "cookies": {
+        "text": "Clienses itilize teknoloji swiv ak koutim ki nesesè pou estriktire ak amelyore eksperyans navigasyon ou. Lè ou kontinye, ou aksepte nou",
+        "link": "Politik Konfidansyalite",
+        "text_end": "rezoud pou opere anba konfidansyalite estriktire.",
+        "accept": "AKSEPTE AK KONTINYE",
+        "close": "Fèmen"
+    },
+    "footer": {
+        "tagline": "Kabinèt Estratejik",
+        "desc": "Nou bay klète, direksyon ak estrikti pou òganizasyon ki pare pou eskale ak entansyon, eksklizivman nan ",
+        "desc_accent": "Repiblik Dominikèn",
+        "est": "EST. 2018 · REPIBLIK DOMINIKÈN",
+        "pillars_label": "PILYE YO",
+        "pillar1": "Direksyon",
+        "pillar2": "Estrikti",
+        "pillar3": "Eskalman",
+        "firm_label": "KABINÈT LA",
+        "firm_context": "Kontèks",
+        "firm_consult": "Konsiltasyon",
+        "channels_label": "CHANÈL YO",
+        "channels_cta": "MANDE YON KONSILTASYON",
+        "silent_power": "POUVWA SILANS.",
+        "privacy": "Konfidansyalite",
+        "terms": "Tèm yo"
+    }
+}

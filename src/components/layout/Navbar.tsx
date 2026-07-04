@@ -21,6 +21,7 @@ export const Navbar = () => {
         { name: dict.nav.strategy, href: "/strategy" },
         { name: dict.nav.intelligence, href: "/intelligence" },
         { name: dict.nav.expansion, href: "/expansion" },
+        { name: dict.nav.insights, href: "/insights" },
         { name: dict.nav.about, href: "/about" },
     ];
 

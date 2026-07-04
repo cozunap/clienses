@@ -10,8 +10,14 @@ export const LanguageSwitcher = ({ className }: { className?: string }) => {
     return (
         <div className={cn("flex items-center gap-3", className)}>
             <Globe className="w-3.5 h-3.5 text-primary/40" />
-            <div className="flex items-center bg-structure/5 rounded-full p-1 border border-structure/10 backdrop-blur-sm">
+            <div 
+                role="group" 
+                aria-label="Selección de idioma"
+                className="flex items-center bg-structure/5 rounded-full p-1 border border-structure/10 backdrop-blur-sm"
+            >
                 <button
+                    aria-label="Español"
+                    aria-pressed={locale === "es"}
                     onClick={() => setLocale("es")}
                     className={cn(
                         "text-[10px] font-black tracking-widest px-3 py-1 rounded-full transition-all duration-500 uppercase",
@@ -23,6 +29,8 @@ export const LanguageSwitcher = ({ className }: { className?: string }) => {
                     ES
                 </button>
                 <button
+                    aria-label="English"
+                    aria-pressed={locale === "en"}
                     onClick={() => setLocale("en")}
                     className={cn(
                         "text-[10px] font-black tracking-widest px-3 py-1 rounded-full transition-all duration-500 uppercase",
@@ -34,6 +42,8 @@ export const LanguageSwitcher = ({ className }: { className?: string }) => {
                     EN
                 </button>
                 <button
+                    aria-label="Français"
+                    aria-pressed={locale === "fr"}
                     onClick={() => setLocale("fr")}
                     className={cn(
                         "text-[10px] font-black tracking-widest px-3 py-1 rounded-full transition-all duration-500 uppercase",
@@ -45,6 +55,8 @@ export const LanguageSwitcher = ({ className }: { className?: string }) => {
                     FR
                 </button>
                 <button
+                    aria-label="Kreyòl"
+                    aria-pressed={locale === "ht"}
                     onClick={() => setLocale("ht")}
                     className={cn(
                         "text-[10px] font-black tracking-widest px-3 py-1 rounded-full transition-all duration-500 uppercase",

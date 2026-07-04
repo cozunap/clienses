@@ -110,8 +110,10 @@ export function ContactModal() {
                 onClick={closeModal}
             ></div>
 
-            {/* Modal Container */}
             <div 
+                role="dialog"
+                aria-modal="true"
+                aria-labelledby="contact-modal-title"
                 className="relative bg-bg-light w-full max-w-4xl h-full sm:h-auto sm:max-h-[90vh] overflow-y-auto sm:rounded-sm shadow-2xl flex flex-col"
                 onClick={(e) => e.stopPropagation()}
             >
@@ -122,11 +124,12 @@ export function ContactModal() {
                         <span className="text-primary font-black tracking-[0.4em] uppercase text-[10px] block mb-2">
                             {dict.contact.label}
                         </span>
-                        <h2 className="text-2xl sm:text-3xl font-black uppercase  flex items-center gap-3">
+                        <h2 id="contact-modal-title" className="text-2xl sm:text-3xl font-black uppercase  flex items-center gap-3">
                             {dict.contact.title} <span className="text-primary">{dict.contact.title_accent}</span>
                         </h2>
                     </div>
                     <button
+                        aria-label="Cerrar ventana de contacto"
                         onClick={closeModal}
                         className="text-structure/40 hover:text-primary transition-colors p-2 rounded-full hover:bg-text-main"
                     >

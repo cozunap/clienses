@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     siteName: "Clienses Strategic",
     images: [
       {
-        url: "/clienses-logo-black.svg",
+        url: "/opengraph-image.jpg",
         width: 1200,
         height: 630,
         alt: "Clienses Strategic - Consultoría Estratégica",
@@ -57,10 +57,16 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Clienses | Arquitectura y Escalabilidad Empresarial",
     description: "Firma de consultoría estratégica exclusiva para la República Dominicana. Transformamos la improvisación en arquitectura corporativa sólida.",
-    images: ["/clienses-logo-black.svg"],
+    images: ["/twitter-image.jpg"],
   },
   alternates: {
     canonical: "https://clienses.com",
+    languages: {
+      'es-DO': 'https://clienses.com',
+      'en-US': 'https://clienses.com',
+      'fr-FR': 'https://clienses.com',
+      'ht-HT': 'https://clienses.com',
+    },
   },
   robots: {
     index: true,

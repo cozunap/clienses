@@ -13,12 +13,19 @@ interface PageProps {
   }>;
 }
 
-// Temporary static list until the PDF is provided.
-// This allows the build to succeed. Once the PDF keywords are provided,
-// we will populate this with the exact target regions/services.
 const PREDEFINED_SLUGS = [
-  "estrategia-corporativa-santo-domingo",
-  "expansion-punta-cana",
+  "strategic-consulting-firm-latin-america",
+  "organizational-strategy-consulting",
+  "business-structure-consulting-dominican-republic",
+  "c-suite-strategic-advisory",
+  "organizational-design-consulting-firm",
+  "business-scaling-strategy-consulting",
+  "corporate-strategy-firm-caribbean",
+  "how-to-scale-a-business-without-losing-structure",
+  "consulting-firm-for-executive-leadership-teams",
+  "organizational-structure-problems-growing-companies",
+  "strategic-consulting-for-latin-american-businesses",
+  "business-architecture-consulting-for-ceos",
 ];
 
 export async function generateStaticParams() {

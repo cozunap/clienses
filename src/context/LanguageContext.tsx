@@ -28,12 +28,14 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
     const [locale, setLocaleState] = useState<Locale>("es");
 
     useEffect(() => {
-        // Detect browser language
-        const browserLang = navigator.language.split("-")[0] as Locale;
-        if (dictionaries[browserLang]) {
-            setLocaleState(browserLang);
-            document.documentElement.lang = browserLang;
-        }
+        setTimeout(() => {
+            // Detect browser language
+            const browserLang = navigator.language.split("-")[0] as Locale;
+            if (dictionaries[browserLang]) {
+                setLocaleState(browserLang);
+                document.documentElement.lang = browserLang;
+            }
+        }, 0);
     }, []);
 
     const setLocale = (l: Locale) => {

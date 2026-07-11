@@ -28,24 +28,16 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
     const [locale, setLocaleState] = useState<Locale>("es");
 
     useEffect(() => {
-        setTimeout(() => {
-            // 1. Check localStorage preference
-            const saved = localStorage.getItem("locale") as Locale | null;
-            if (saved && dictionaries[saved]) {
-                setLocaleState(saved);
-                return;
-            }
-            // 2. Detect browser language
-            const browserLang = navigator.language.split("-")[0] as Locale;
-            if (dictionaries[browserLang]) {
-                setLocaleState(browserLang);
-            }
-        }, 0);
+        // Detect browser language
+        const browserLang = navigator.language.split("-")[0] as Locale;
+        if (dictionaries[browserLang]) {
+            setLocaleState(browserLang);
+            document.documentElement.lang = browserLang;
+        }
     }, []);
 
     const setLocale = (l: Locale) => {
         setLocaleState(l);
-        localStorage.setItem("locale", l);
     };
 
     return (

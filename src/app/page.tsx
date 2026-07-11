@@ -4,6 +4,7 @@ import { Hero } from "@/components/sections/Hero";
 import { StrategicIntelligence } from "@/components/sections/StrategicIntelligence";
 import { AuthorityWithoutNoise } from "@/components/sections/AuthorityWithoutNoise";
 import { MethodFramework } from "@/components/sections/MethodFramework";
+import { AssessmentSection } from "@/components/sections/AssessmentSection";
 
 export default function Home() {
     return (
@@ -13,6 +14,7 @@ export default function Home() {
             <StrategicIntelligence />
             <AuthorityWithoutNoise />
             <MethodFramework />
+            <AssessmentSection />
             <Footer />
         </main>
     );

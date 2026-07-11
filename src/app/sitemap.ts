@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllInsightSlugs } from '@/lib/markdown';
+import { PREDEFINED_SLUGS } from '@/lib/servicios';
 
 export const dynamic = 'force-static';
 
@@ -30,5 +31,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
     }));
 
-    return [...routes, ...insightRoutes];
+    // Dynamic Servicios pages
+    const serviciosRoutes = PREDEFINED_SLUGS.map((slug) => ({
+        url: `${baseUrl}/servicios/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+    }));
+
+    return [...routes, ...insightRoutes, ...serviciosRoutes];
 }

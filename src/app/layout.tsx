@@ -88,7 +88,7 @@ export default function RootLayout({
 }>) {
   const schemaData = {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
+    "@type": "Corporation",
     "name": "Clienses",
     "image": "https://clienses.com/clienses-logo-black.svg",
     "url": "https://clienses.com",

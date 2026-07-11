@@ -8,6 +8,7 @@ import { Container } from "@/components/ui/Container";
 import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
 import { useLanguage } from "@/context/LanguageContext";
+import { MagneticWrapper } from "@/components/ui/MagneticWrapper";
 
 export const Navbar = () => {
     const [isScrolled, setIsScrolled] = useState(false);
@@ -83,13 +84,15 @@ export const Navbar = () => {
                             <div className={cn(
                                 "hidden lg:flex items-center"
                             )}>
-                                <Link
-                                    href="?contact=true"
-                                    scroll={false}
-                                    className="bg-accent text-white px-10 py-4 text-[11px] font-black tracking-[0.1em] uppercase hover:bg-primary transition-all duration-700 shadow-corporate rounded-sm"
-                                >
-                                    {dict.nav.contact}
-                                </Link>
+                                <MagneticWrapper magneticStrength={0.2}>
+                                    <Link
+                                        href="?contact=true"
+                                        scroll={false}
+                                        className="bg-accent text-white px-10 py-4 text-[11px] font-black tracking-[0.1em] uppercase hover:bg-primary transition-all duration-700 shadow-corporate rounded-sm"
+                                    >
+                                        {dict.nav.contact}
+                                    </Link>
+                                </MagneticWrapper>
                             </div>
 
                             <button

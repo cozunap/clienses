@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { MagneticWrapper } from "./MagneticWrapper";
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
     variant?: "primary" | "secondary" | "outline" | "ghost";
@@ -39,15 +40,19 @@ export const Button = ({
 
     if (href) {
         return (
-            <Link href={href} scroll={scroll} className={classes}>
-                {props.children}
-            </Link>
+            <MagneticWrapper magneticStrength={0.2}>
+                <Link href={href} scroll={scroll} className={classes}>
+                    {props.children}
+                </Link>
+            </MagneticWrapper>
         );
     }
 
     return (
-        <button className={classes} {...props}>
-            {props.children}
-        </button>
+        <MagneticWrapper magneticStrength={0.2}>
+            <button className={classes} {...props}>
+                {props.children}
+            </button>
+        </MagneticWrapper>
     );
 };

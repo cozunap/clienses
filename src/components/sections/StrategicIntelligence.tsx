@@ -2,7 +2,7 @@
 
 import { Container } from "@/components/ui/Container";
 import { Section } from "@/components/ui/Section";
-import { Reveal } from "@/components/ui/Reveal";
+import { Reveal, RevealItem } from "@/components/ui/Reveal";
 import { ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 import { useLanguage } from "@/context/LanguageContext";
@@ -38,11 +38,11 @@ export const StrategicIntelligence = () => {
                     <div className="lg:col-span-8">
                         <Reveal stagger className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             {pillars.map((pillar, idx) => (
-                                <Link
-                                    key={idx}
-                                    href={HREFS[idx]}
-                                    className="block group p-8 sm:p-12 border border-text-main/5 bg-bg-light/[0.02] hover:bg-primary hover:border-primary transition-all duration-700 relative overflow-hidden shadow-corporate"
-                                >
+                                <RevealItem key={idx}>
+                                    <Link
+                                        href={HREFS[idx]}
+                                        className="block group p-8 sm:p-12 border border-text-main/5 bg-bg-light/[0.02] hover:bg-primary hover:border-primary transition-all duration-700 relative overflow-hidden shadow-corporate h-full"
+                                    >
                                     <div className="space-y-12 relative z-10">
                                         <div className="flex justify-between items-start">
                                             <span className="text-[11px] font-black text-primary tracking-[0.5em] group-hover:text-text-main transition-colors">PILLAR 0{idx + 1}</span>
@@ -58,15 +58,18 @@ export const StrategicIntelligence = () => {
                                         </div>
                                     </div>
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-primary/5 group-hover:bg-text-main/10 -rotate-45 translate-x-10 -translate-y-10 transition-all"></div>
-                                </Link>
+                                    </Link>
+                                </RevealItem>
                             ))}
 
-                            <div className="p-8 sm:p-12 border border-primary/20 bg-primary/5 space-y-8 h-full flex flex-col justify-center">
-                                <p className="text-sm font-black text-primary uppercase italic group-hover:text-text-main transition-colors">{dict.services.quote_label}</p>
-                                <p className="text-xl font-light text-text-main italic leading-tight">
-                                    {dict.services.quote}
-                                </p>
-                            </div>
+                            <RevealItem>
+                                <div className="p-8 sm:p-12 border border-primary/20 bg-primary/5 space-y-8 h-full flex flex-col justify-center">
+                                    <p className="text-sm font-black text-primary uppercase italic group-hover:text-text-main transition-colors">{dict.services.quote_label}</p>
+                                    <p className="text-xl font-light text-text-main italic leading-tight">
+                                        {dict.services.quote}
+                                    </p>
+                                </div>
+                            </RevealItem>
                         </Reveal>
                     </div>
                 </div>

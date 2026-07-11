@@ -46,10 +46,34 @@ export default async function InsightPost({ params }: { params: Promise<{ slug: 
     notFound();
   }
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": postData.title,
+    "description": postData.excerpt,
+    "author": {
+      "@type": "Organization",
+      "name": postData.author,
+    },
+    "datePublished": postData.date,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Clienses",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://clienses.com/logo.png"
+      }
+    }
+  };
+
   return (
     <div className="flex flex-col min-h-screen relative">
       <Navbar />
       <main className="flex-grow">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <Section className="pt-32 pb-20 arch-grid">
           <Container>
             <article className="max-w-4xl mx-auto space-y-12">

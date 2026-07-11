@@ -38,3 +38,15 @@ export const Reveal = ({ children, className, stagger = false, delay = 0 }: Reve
         </motion.div>
     );
 };
+
+export const RevealItem = ({ children, className }: { children: ReactNode; className?: string }) => {
+    const itemVariants = {
+        hidden: { opacity: 0, y: 30 },
+        visible: { opacity: 1, y: 0, transition: { duration: 0.8, ease: [0.16, 1, 0.3, 1] as const } }
+    };
+    return (
+        <motion.div variants={itemVariants} className={className}>
+            {children}
+        </motion.div>
+    );
+};

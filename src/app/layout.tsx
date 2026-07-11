@@ -5,6 +5,7 @@ import { ContactModal } from "@/components/ui/ContactModal";
 import { CookieConsent } from "@/components/ui/CookieConsent";
 import { Suspense } from "react";
 import { LanguageProvider } from "@/context/LanguageContext";
+import { SmoothScrollProvider } from "@/components/ui/SmoothScrollProvider";
 import Script from "next/script";
 
 const poppins = Poppins({
@@ -108,7 +109,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="es" className="scroll-smooth">
+    <html lang="es">
       <body
         className={`${poppins.variable} font-sans antialiased bg-bg-light text-structure selection:bg-primary/20 selection:text-primary`}
       >
@@ -129,13 +130,15 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
         />
-        <LanguageProvider>
-          {children}
-          <Suspense fallback={null}>
-            <ContactModal />
-          </Suspense>
-          <CookieConsent />
-        </LanguageProvider>
+        <SmoothScrollProvider>
+          <LanguageProvider>
+            {children}
+            <Suspense fallback={null}>
+              <ContactModal />
+            </Suspense>
+            <CookieConsent />
+          </LanguageProvider>
+        </SmoothScrollProvider>
       </body>
     </html>
   );

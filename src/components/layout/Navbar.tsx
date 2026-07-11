@@ -8,7 +8,6 @@ import { Container } from "@/components/ui/Container";
 import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
 import { useLanguage } from "@/context/LanguageContext";
-import { LanguageSwitcher } from "@/components/ui/LanguageSwitcher";
 
 export const Navbar = () => {
     const [isScrolled, setIsScrolled] = useState(false);
